@@ -1,0 +1,17 @@
+---
+title: "Publications"
+format: html
+---
+
+
+1.  Wu, H., Weinstein, S., Moore, L.E. et al. Coffee intake and trace element blood concentrations in association with renal cell cancer among smokers. Cancer Causes Control (2021). <https://doi.org/10.1007/s10552-021-01505-2>
+2.  Wu H, Wang M, Raman JD, McDonald AC. Association between urinary arsenic, blood cadmium, blood lead, and blood mercury levels and serum prostate-specific antigen in a population-based cohort of men in the United States. PLoS One. 2021 Apr 23;16(4):e0250744. doi: 10.1371/journal.pone.0250744. PMID: 33891655.
+3.  Hongke Wu, Melanie Potiaumpai, Shawna E. Doerksen, FACSM, Vernon M. Chinchilli, Li Wang, Rachel Lintz, Kathryn H. Schmitz, FACSM. Cost Evaluation of An Exercise Oncology Intervention: The ENACT Trial. Poster Presentation at the American College of Sports Medicine (ACSM) 2021 Annual Meeting. June 1-5, 2021; Virtual Meeting. #3715.
+4.  Wu H, Wang M, McDonald AC. Association between levels of urinary caffeine and caffeine metabolite and elevated serum PSA among men at risk for prostate cancer. Oral Presentation at The American Public Health Association (APHA) 2020 Annual Meeting; Oct 27th, 2020; Virtual Meeting. Abstract #480015.
+5.  Rebecca Volpe, PhD; Margaret Hopkins, MEd; Jasmine Geathers, GSII; Hongke Wu; Yendelela Cuffee, PhD. Investigating structural inequities in the culture of medicine. Paper Presentation at the 2020 American Society for Bioethics and Humanities (ASBH) Annual Conference; Oct 16th, 2020; Virtual Meeting.
+6.  Wu H, Wang M, Raman JD, McDonald AC. Evaluation of serum prostate-specific antigen levels and levels of heavy metals (urinary arsenic and blood cadmium, lead, and mercury) among men at risk for prostate cancer. Oral presented at: The American Public Health Association (APHA) 2019 Annual Meeting; Nov 2nd, 2019; Philadelphia, PA. Abstract #445353.
+7.  Dhruvil Shah, Kara A. Negrini, Katherine Wehrung, Abigail Haworth, Dan Lin, Hongke Wu, Sri-Rajasekhar Kothapalli, Alison Chetlan, Kathleen M. Sturgeon. Utilizing Photoacoustic Imaging to Detect Differences in Mammary Tumor Vasculature Between Exercise and Sedentary Rats. American College of Sports Medicine. Conference Abstract (2023 May)
+8.  Brett Gordon, Hongke Wu, Stephen Baker, Matthew Herring, Kathryn Schmitz. The Effect of Physical Activity On Anxiety Symptoms In Cancer Survivors, A Systematic Review And Meta-analysis. American College of Sports Medicine. Conference Abstract (2023 May)
+9.  McDonald AC, Gernand J, Geyer NR, Wu H, Yang Y, Wang M. Ambient air exposures to arsenic and cadmium and overall and prostate cancer-specific survival among prostate cancer cases in Pennsylvania, 2004 to 2014. Cancer. 2022;128(9):1832-1839. doi:10.1002/cncr.34128
+10. Dougherty, E.C., Burse, N., Butzner, M., Wu H. et al. Examining medication adherence and preferences for a lifestyle intervention among Black and Latinx adults with hypertension: a feasibility study. Pilot Feasibility Stud 7, 209 (2021). <https://doi.org/10.1186/s40814-021-00930-z>
+11. Potiaumpai M, Doerksen SE, Chinchilli VM, Wu H, Wang L, Lintz R, Schmitz KH. Cost evaluation of an exercise oncology intervention: The exercise in all chemotherapy trial. Cancer Rep (Hoboken). 2021 Jul 8:e1490. doi: 10.1002/cnr2.1490. Epub ahead of print. PMID: 34236137.
