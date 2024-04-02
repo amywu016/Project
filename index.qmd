@@ -1,6 +1,6 @@
 ---
 title: "Hongke (Amy) Wu"
-image: "Skethcy.jpg"
+image: "ID.jpg"
 toc: false
 about:
   id: ppc
