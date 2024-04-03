@@ -13,9 +13,8 @@ website:
       - Post.qmd
 format:
   html:
-    theme: sketchy
+    theme: cerulean
     css: styles.css
     toc: true
-
 
 
